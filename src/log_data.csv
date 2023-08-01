@@ -1,0 +1,49 @@
+Server,Incident,Description,Time
+A,Network Connectivity,Intermittent network connectivity issues,2023-08-01 09:12:00
+B,Application Crash,The application on Server B crashed unexpectedly,2023-08-01 11:45:22
+A,Security Breach,Unusual login attempts on Server A admin account,2023-08-02 15:30:10
+B,Database Corruption,Database table corruption detected on Server B,2023-08-03 08:55:11
+A,Performance Degradation,High CPU usage causing slowness on Server A,2023-08-04 14:20:05
+A,Application Behavior,Users experiencing intermittent timeouts on Server A,2023-08-05 10:18:30
+B,Authentication Failure,Unable to log in to the application on Server B,2023-08-06 12:05:15
+A,Backup Job Error,Backup job failed to complete on Server A,2023-08-07 16:40:50
+B,Storage Capacity,Disk space running low on Server B,2023-08-08 09:27:37
+A,Software Update,Recent software update causing compatibility issues on Server A,2023-08-09 14:55:12
+A,Service Unavailability,One of the critical services not responding on Server A,2023-08-10 17:35:22
+B,Hardware Failure,Server B experienced a hardware failure,2023-08-11 18:20:48
+A,Email Delivery Issue,Emails not being delivered from Server A,2023-08-12 11:30:16
+B,Software Crash,Application on Server B crashed unexpectedly,2023-08-13 14:48:55
+A,Security Alert,Security breach detected in the logs on Server A,2023-08-14 09:02:10
+B,Database Performance,Slow database queries on Server B,2023-08-15 15:10:05
+A,Service Restart,A critical service on Server A required a restart,2023-08-16 08:12:22
+B,Permission Misconfiguration,Users unable to access specific files on Server B,2023-08-17 17:45:38
+A,Backup Restoration,Data restoration from backup encountered errors on Server A,2023-08-18 13:25:42
+B,Network Hardware Issue,Faulty network switch affecting Server B connectivity,2023-08-19 11:30:15
+A,Application Update,New application update causing compatibility issues on Server A,2023-08-20 10:18:20
+B,User Account Issue,User unable to log in due to account lockout on Server B,2023-08-21 14:33:09
+A,Database Backup Failure,Scheduled database backup failed on Server A,2023-08-22 12:48:33
+B,Software Conflict,Conflict between two applications causing instability on Server B,2023-08-23 15:27:55
+A,Performance Bottleneck,Identified performance bottleneck on the web server on Server A,2023-08-24 09:08:46
+B,Security Patch,Applying security patches to mitigate vulnerabilities on Server B,2023-08-25 16:05:38
+A,Data Integrity,Data integrity check failed on Server A,2023-08-26 10:11:20
+B,Application Configuration,Misconfiguration in the application settings on Server B,2023-08-27 14:52:40
+A,Service Outage,Service outage affecting multiple users on Server A,2023-08-28 18:30:22
+B,User Access,User access permissions not being applied correctly on Server B,2023-08-29 12:15:17
+A,Database Connection,Issues establishing connections to the database on Server A,2023-08-30 11:55:11
+B,Service Performance,Service on Server B experiencing slowness,2023-08-31 09:40:45
+A,Email Attachment Issue,Unable to send or receive emails with attachments on Server A,2023-09-01 16:20:55
+B,Software Licensing,Expired software license causing application shutdown on Server B,2023-09-02 10:02:38
+A,Backup Verification,Data backup verification process failed on Server A,2023-09-03 14:48:23
+B,Hardware Upgrade,Upgrading RAM on Server B for better performance,2023-09-04 08:15:52
+A,Performance Tuning,Optimizing server settings to improve performance on Server A,2023-09-05 13:27:19
+B,Security Audit,Conducting a security audit to identify vulnerabilities on Server B,2023-09-06 12:40:30
+A,Database Replication,Replication issues detected in the database cluster on Server A,2023-09-07 15:55:18
+B,Service Patching,Applying patches to fix service-specific bugs on Server B,2023-09-08 09:33:45
+A,Data Restoration,Restoring data from a recent backup after data loss on Server A,2023-09-09 17:10:30
+B,Application Rollback,Rolling back application update due to issues on Server B,2023-09-10 11:50:55
+A,User Training,Conducting user training on a newly implemented system on Server A,2023-09-11 14:20:10
+B,Backup Storage,Issues with storing backups due to limited storage on Server B,2023-09-12 09:28:33
+A,Hardware Replacement,Replacing a faulty network card on Server A,2023-09-13 15:40:48
+B,Email Spam Filter,Configuring spam filters to reduce email spam on Server B,2023-09-14 10:05:19
+A,Application Integration,Integrating third-party application with Server A,2023-09-15 11:55:28
+B,User Permissions,Adjusting user permissions based on role changes on Server B,2023-09-16 09:22:45

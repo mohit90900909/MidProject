@@ -1,0 +1,17 @@
+100,Report a problem,Anil,7892199767,TV not working
+101,Access Issue,Bhagya,8967456780,Access card not working
+102,General Enquiry,Shwetha,9987689076,know charge details
+103,Feedback,Enock,8978899768,Good Support by team
+104,Router Issue,Rucha,8977799768,Electronic Issue
+105,Feedback,sonu,8888899768,Bad Support by team
+
+create table tickets(ticketid int primary key,problem varchar(100),name varchar(60), number long, remark varchar(100));
+
+insert into tickets values(100,'Report a problem','Anil',7892199767,'TV not working');
+insert into tickets values(101,'Access Issue','Bhagya',8967456780,'Access card not working');
+insert into tickets values(102,'General Enquiry','Shwetha',9987689076,'know charge details');
+insert into tickets values(103,'Feedback','Enock',8978899768,'Good Support by team');
+insert into tickets values(104,'Router Issue','Rucha',8977799768,'Electronic Issue');
+insert into tickets values(105,'Feedback','sonu',8888899768,'Bad Support by team');
+
+
